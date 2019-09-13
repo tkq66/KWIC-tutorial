@@ -24,7 +24,7 @@ public class MasterControlTest {
 		Set<String> ignoreWords = new HashSet<>();
 		ignoreWords.add("is");
 		ignoreWords.add("the");
-		ignoreWords.add("of");
+//		ignoreWords.add("of");
 		ignoreWords.add("and");
 		ignoreWords.add("as");
 		ignoreWords.add("a");
