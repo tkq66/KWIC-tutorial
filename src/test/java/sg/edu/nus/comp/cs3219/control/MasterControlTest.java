@@ -25,7 +25,7 @@ public class MasterControlTest {
 		ignoreWords.add("is");
 		ignoreWords.add("the");
 		ignoreWords.add("of");
-//		ignoreWords.add("and");
+		ignoreWords.add("and");
 		ignoreWords.add("as");
 		ignoreWords.add("a");
 		ignoreWords.add("after");
